@@ -41,7 +41,7 @@ Apache-2.0 — will be in this repo at M5 alongside the code drop.
 
 ## Spec
 
-The engineering contract for the runtime lives in the [SDK repo's SPEC.md](https://github.com/computeruse-dev/sdk/blob/main/SPEC.md), specifically:
+The engineering contract for the runtime lives in the [SDK repo's SPEC.md](https://github.com/computeruse-run/sdk/blob/main/SPEC.md), specifically:
 
 - **§2** — Sandbox runtime (container image, cold-start path, lifecycle, isolation primitive options)
 - **§3** — Model loops (Anthropic Computer Use, OpenAI Operator, Gemini agent, the unified `Sandbox.agent.run()` abstraction)
@@ -54,12 +54,12 @@ The engineering contract for the runtime lives in the [SDK repo's SPEC.md](https
 
 | Component | Status |
 |---|---|
-| Spec | [Published](https://github.com/computeruse-dev/sdk/blob/main/SPEC.md) |
+| Spec | [Published](https://github.com/computeruse-run/sdk/blob/main/SPEC.md) |
 | Runtime source | Coming M5 (target Q3 2026) |
 | Self-host Docker license | Bundled with Team plan once M5 ships |
 
 ## Links
 
 - Homepage: <https://computeruse.run/>
-- SDK + spec: <https://github.com/computeruse-dev/sdk>
+- SDK + spec: <https://github.com/computeruse-run/sdk>
 - Waitlist: <https://computeruse.run/#signup>
